@@ -1,0 +1,19 @@
+{
+  "name": "todoist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdir-s/todoist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdir-s/todoist/issues"
+  },
+  "homepage": "https://github.com/mkdir-s/todoist#readme"
+}
