@@ -1,0 +1,31 @@
+.site__wrapper {
+  max-width: 1280px;
+  padding: 0 15px;
+  width: 100%;
+  margin: 0 auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.site__wrapper h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 48px;
+}
+.addTask__wrapper {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
+.addTask__wrapper input {
+  height: 20px;
+  width: 400px;
+}
+.ToDoItem {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  align-items: center;
+  margin: 0 auto;
+  padding: 15px;
+  border: 2px dashed #000;
+  margin-top: 20px;
+}
